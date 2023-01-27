@@ -37,8 +37,7 @@ Egg Timer: Perfect Boiled Eggs reserves the right to grant licences to use the S
 
 This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to Egg Timer: Perfect Boiled Eggs.
 
-It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement. This EULA was created by [App EULA Template Generator from App-Privacy-Policy.com](https://www.app-privacy-policy.com/app-eula-generator/) for Egg Timer: Perfect Boiled Eggs
-
+It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement. 
 ### Governing Law
 
-This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of de.
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of European Union (Germany).
