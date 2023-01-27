@@ -1,5 +1,5 @@
 # End-User License Agreement (EULA) of Egg Timer: Perfect Boiled Eggs
--------------------------------------------------------------------
+---------------------------------------------------------------------
 
 This End-User License Agreement ("EULA") is a legal agreement between you and Egg Timer: Perfect Boiled Eggs
 
