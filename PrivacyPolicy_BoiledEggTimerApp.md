@@ -1,7 +1,7 @@
 Privacy Policy for Egg Timer: Perfect Boiled Eggs
 =================================================
 
-At Egg Timer: Perfect Boiled Eggs, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Egg Timer: Perfect Boiled Eggs and how we use it.
+At Egg Timer: Perfect Boiled Eggs, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Egg Timer: Perfect Boiled Eggs and how we use it. We are proud to mention we don't collect any data from the user beyond what Apple's iOS/watchOS default metrics. 
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
@@ -44,7 +44,7 @@ Egg Timer: Perfect Boiled Eggs does not knowingly collect any Personal Identifia
 Online Privacy Policy Only
 --------------------------
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our App with regards to the information that they shared and/or collect in Egg Timer: Perfect Boiled Eggs. This policy is not applicable to any information collected offline or via channels other than this app. Our Privacy Policy was created with the help of the [App Privacy Policy Generator from App-Privacy-Policy.com](https://www.app-privacy-policy.com/app-privacy-policy-generator/)
+This Privacy Policy applies only to our online activities and is valid for visitors to our App with regards to the information that they shared and/or collect in Egg Timer: Perfect Boiled Eggs. This policy is not applicable to any information collected offline or via channels other than this app. 
 
 Consent
 -------
