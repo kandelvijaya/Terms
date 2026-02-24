@@ -32,8 +32,8 @@ Pomodoro technique timer and productivity tool.
 - [EULA](EULA_Pomelo.md)
 
 ### Task Buddy
-Task management and productivity assistant.
-- Support Page _(coming soon)_
+Task management using the Eisenhower Matrix — organize by importance and urgency.
+- [Support Page](Support_TaskBuddy.md)
 - [Privacy Policy](PrivacyPolicy_TaskBuddy.md)
 - [EULA](EULA_TaskBuddy.md)
 
