@@ -31,6 +31,11 @@ Pomodoro technique timer and productivity tool.
 - [Privacy Policy](PrivacyPolicy_Pomelo.md)
 - [EULA](EULA_Pomelo.md)
 
+### Interactive Quote
+Interactive philosophical wisdom as micro-experiences for iOS.
+- [Privacy Policy](PrivacyPolicy_InteractiveQuote.md)
+- [EULA](EULA_InteractiveQuote.md)
+
 ### Task Buddy
 Task management using the Eisenhower Matrix — organize by importance and urgency.
 - [Support Page](Support_TaskBuddy.md)
