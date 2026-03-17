@@ -1,16 +1,16 @@
 **Privacy Policy**
 
-Vijaya Kandel built the Interactive Quote app as a Free app. This SERVICE is provided by Vijaya Kandel at no cost and is intended for use as is.
+Vijaya Kandel built the Zen Quote 2 app as a Free app. This SERVICE is provided by Vijaya Kandel at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Interactive Quote unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Zen Quote 2 unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
-The Interactive Quote app does not collect any personally identifiable information. The app runs entirely on your device. All interactions, preferences, and content remain local to your device and are never transmitted to external servers.
+The Zen Quote 2 app does not collect any personally identifiable information. The app runs entirely on your device. All interactions, preferences, and content remain local to your device and are never transmitted to external servers.
 
 The app uses on-device AI (Apple's FoundationModels framework) for card matching. This processing happens entirely on your device — no text you enter is sent to any server or third party.
 
@@ -45,7 +45,7 @@ I want to inform users of this Service that these third parties have access only
 
 **Security**
 
-The Interactive Quote app does not collect any personal data. All content you interact with is stored and processed locally on your device. No personal information is transmitted to or stored on external servers.
+The Zen Quote 2 app does not collect any personal data. All content you interact with is stored and processed locally on your device. No personal information is transmitted to or stored on external servers.
 
 **Children's Privacy**
 
