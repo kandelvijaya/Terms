@@ -42,6 +42,12 @@ Task management using the Eisenhower Matrix — organize by importance and urgen
 - [Privacy Policy](PrivacyPolicy_TaskBuddy.md)
 - [EULA](EULA_TaskBuddy.md)
 
+### HospitalsNepal
+Hospital and doctor directory for Nepal — browse listings, filter by specialty, and access contact details.
+- [Support Page](Support_HospitalsNepal.md)
+- [Privacy Policy](PrivacyPolicy_HospitalsNepal.md)
+- [EULA](EULA_HospitalsNepal.md)
+
 ## GitHub Pages
 
 This repository is published via GitHub Pages at:
